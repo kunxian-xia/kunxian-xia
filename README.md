@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kunxian-xia
-- 👀 I’m interested in cryptography and blockchain. 
+- 👋 Hi, I’m @kunxian-xia, a crypto engineer interested in verifiable computation like SNARK.
 - Currently, I'm working on a layer2 solution called [Scroll](https://twitter.com/Scroll_ZKP).
 
 
